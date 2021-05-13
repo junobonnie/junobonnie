@@ -1,6 +1,6 @@
 ### replica -- @junobonnie
 
-#### 😎 Hi, Every one!<br><br>
+ 😎 Hi, Every one!<br><br>
 
 
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
