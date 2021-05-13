@@ -61,6 +61,13 @@
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=geant4)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=windows)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=vmware)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=visual%20studio%20code)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=dev%20c%2B%2B)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=apt)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=visual%20studio)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=gcc)
+
+
 
 
 
