@@ -1,6 +1,6 @@
 ### replica -- @junobonnie
 
-# Hi, Every one! https://simpleicons.org/icons/linux.svg
+# 😎 Hi, Every one!
 
 
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
