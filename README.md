@@ -29,7 +29,7 @@
 ![Opencv Badge](http://img.shields.io/badge/-Opencv-black?style=flat-square&logo=opencv)
 ![Scipy Badge](http://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
 ![Django Badge](http://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-
+![Pyqt5 Badge](http://img.shields.io/badge/-Pyqt5-black?style=flat-square&logo=qt)
 
 ### 🌱 I’m currently learning
 - Python and Mathematica
