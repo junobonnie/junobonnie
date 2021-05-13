@@ -14,20 +14,25 @@
 
 [![junobonnie's github stats](https://github-readme-stats.vercel.app/api?username=junobonnie&show_icons=true&theme=dracula)](https://github.com/junobonnie)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junobonnie&layout=compact&langs_count=8&theme=dracula)](https://github.com/junobonnie)
-
-
 ### 📚 What I know
-![Linux Badge](http://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux)
-![Python Badge](http://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-![C++ Badge](http://img.shields.io/badge/-C++-blue?style=flat-square&logo=Cplusplus)
-![C# Badge](http://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++ Badge](http://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![C# Badge](http://img.shields.io/badge/-C%23-black?style=flat-square&logo=c)
+![Methmetica Badge](http://img.shields.io/badge/-Mathematica-black?style=flat-square&logo=mathematica)
+![Arduino Badge](http://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![RaspberryPi Badge](http://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=rpi)
+![Odroid Badge](http://img.shields.io/badge/-Odroid-black?style=flat-square&logo=android)
+![Unity Badge](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Opencv Badge](http://img.shields.io/badge/-Opencv-black?style=flat-square&logo=opencv)
 ![Scipy Badge](http://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
-![Django Badge](http://img.shields.io/badge/-django-black?style=flat-square&logo=django)
+![Django Badge](http://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
 
 ### 🌱 I’m currently learning
-- Modern Python, C++, C#
+- Modern Python, Mathematica
 - Computer Simulations
 - Machine learning & Deep learning
 - Django based web server
-- linux!
+- Linux!
