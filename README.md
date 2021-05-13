@@ -6,14 +6,16 @@
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunobonnie)](https://github.com/junobonnie)
-[![Github Followers](https://img.shields.io/github/followers/junobonnie?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/junobonnie?tab=followers)
-
+[![GitHub followers](https://img.shields.io/github/followers/junobonnie.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/junobonnie?tab=followers)
 [![trophy](https://github-profile-trophy.vercel.app/?username=junobonnie&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=junobonnie&theme=calm)](https://github.com/junobonnie)
 
 [![junobonnie's github stats](https://github-readme-stats.vercel.app/api?username=junobonnie&show_icons=true&theme=dracula)](https://github.com/junobonnie)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junobonnie&layout=compact&langs_count=8&theme=dracula)](https://github.com/junobonnie)
+
+
+
 ### 📚 What I know
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Shell Badge](http://img.shields.io/badge/-Shell%20script-black?style=flat-square&logo=gnu-bash)
@@ -67,6 +69,8 @@
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=visual%20studio)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=gcc)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=pygame)
+
+
 
 
 
