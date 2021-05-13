@@ -33,6 +33,7 @@
 
 ### 🌱 I’m currently learning
 - Python and Mathematica
+- Morden python GUI
 - Computer Simulations
 - Machine learning & Deep learning
 - Django based web server
