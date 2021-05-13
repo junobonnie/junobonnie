@@ -24,6 +24,7 @@
 ![RaspberryPi Badge](http://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 ![Odroid Badge](http://img.shields.io/badge/-Odroid-black?style=flat-square&logo=android)
 ![Unity Badge](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![Keras Badge](http://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![Opencv Badge](http://img.shields.io/badge/-Opencv-black?style=flat-square&logo=opencv)
 ![Scipy Badge](http://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
