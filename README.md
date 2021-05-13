@@ -16,6 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junobonnie&layout=compact&langs_count=8&theme=dracula)](https://github.com/junobonnie)
 ### 📚 What I know
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Shell Badge](http://img.shields.io/badge/-Shell%20script-black?style=flat-square&logo=gnu-bash)
 ![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++ Badge](http://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C# Badge](http://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
@@ -33,8 +34,8 @@
 
 ### 🌱 I’m currently learning
 - Python and Mathematica
-- Morden python GUI
 - Computer Simulations
 - Machine learning & Deep learning
 - Django based web server
+- Morden python GUI
 - Linux!
