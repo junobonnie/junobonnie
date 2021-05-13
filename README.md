@@ -1,6 +1,6 @@
 ### replica -- @junobonnie
 
-# 😎 Hi, Every one!
+#### 😎 Hi, Every one!<br><br>
 
 
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
@@ -20,7 +20,10 @@
 ![Linux Badge](http://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux)
 ![Python Badge](http://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![C++ Badge](http://img.shields.io/badge/-C++-blue?style=flat-square&logo=Cplusplus)
+![C# Badge](http://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)
 ![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Scipy Badge](http://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
+![Django Badge](http://img.shields.io/badge/-django-black?style=flat-square&logo=django)
 
 ### 🌱 I’m currently learning
 - Modern Python, C++, C#
