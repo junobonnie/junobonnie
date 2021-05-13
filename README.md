@@ -32,7 +32,7 @@
 
 
 ### 🌱 I’m currently learning
-- Modern Python, Mathematica
+- Python and Mathematica
 - Computer Simulations
 - Machine learning & Deep learning
 - Django based web server
