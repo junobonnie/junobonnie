@@ -66,6 +66,8 @@
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=apt)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=visual%20studio)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=gcc)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=pygame)
+
 
 
 
