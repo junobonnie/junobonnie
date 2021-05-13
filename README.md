@@ -17,7 +17,7 @@
 ### 📚 What I know
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Shell Badge](http://img.shields.io/badge/-Shell%20script-black?style=flat-square&logo=gnu-bash)
-![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logocolor=white)
+![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
 ![C++ Badge](http://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![C# Badge](http://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Methmetica Badge](http://img.shields.io/badge/-Mathematica-black?style=flat-square&logo=mathematica)
@@ -51,7 +51,18 @@
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=google-colab)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=matplotlib)
 ![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=selenium)
-![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=beautifulsoup)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=beautiful-soup)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=bs)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=amd)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=tmux)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=lynx)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=ubuntu)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=kali-linux)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=geant4)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=windows)
+![Linux Badge](http://img.shields.io/badge/-Linux-black?style=flat-square&logo=vmware)
+
+
 
 ### 🌱 I’m currently learning
 - Python and Mathematica
