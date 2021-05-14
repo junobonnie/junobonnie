@@ -96,6 +96,7 @@
 ![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
 ![Pandas Badge](http://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Numpy Badge](http://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=blue)
+![Numba Badge](http://img.shields.io/badge/-Numba-black?style=flat-square&logo=numba)
 
 - Git & Package Managers <br>
 ![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
