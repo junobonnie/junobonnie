@@ -109,7 +109,7 @@
 - Servers & Tools <br>
 ![AWS Badge](http://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Tmux Badge](http://img.shields.io/badge/-Tmux-black?style=flat-square&logo=tmux)
-
+![SSH Badge](http://img.shields.io/badge/-SSH-black?style=flat-square&logo=ssh)
 
 
 
