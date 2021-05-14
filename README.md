@@ -5,7 +5,7 @@
 
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunobonnie)](https://github.com/junobonnie)
+[![Hits](https://Hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunobonnie)](https://github.com/junobonnie)
 [![Naver-mail Badge](http://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=naver&logoColor=white)](mailto:junobonnie@naver.com)
 [![GitHub followers](https://img.shields.io/github/followers/junobonnie.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/junobonnie?tab=followers)
 <br>
