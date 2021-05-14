@@ -29,7 +29,7 @@
 ![Vmware Badge](http://img.shields.io/badge/-Vmware-black?style=flat-square&logo=vmware&logoColor=white)
 <br>- OS <br>
 ![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Kali-linux Badge](http://img.shields.io/badge/-Kali%20linux-black?style=flat-square&logo=kali-linux&logoColor=white)
+![Kali-linux Badge](http://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kali-linux&logoColor=white)
 ![CentOS Badge](http://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos)
 ![Debian Badge](http://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian&logoColor=red)
 ![MacOS Badge](http://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
