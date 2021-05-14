@@ -74,7 +74,7 @@
 ![Keras Badge](http://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras&logoColor=red)
 ![Tensorflow Badge](http://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![OpenCV Badge](http://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Scikit-learn Badge](http://img.shields.io/badge/-Scikit%20learn-black?style=flat-square&logo=scikit-learn)
+![Scikit-learn Badge](http://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![Scipy Badge](http://img.shields.io/badge/-Scipy-black?style=flat-square&logo=scipy)
 ![Root Badge](http://img.shields.io/badge/-Root-black?style=flat-square&logo=root)
 
