@@ -6,6 +6,7 @@
 ## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunobonnie)](https://github.com/junobonnie)
+[![Naver-mail Badge](http://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=naver&logoColor=white)](junobonnie@naver.com)
 [![GitHub followers](https://img.shields.io/github/followers/junobonnie.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/junobonnie?tab=followers)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=junobonnie&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -15,8 +16,6 @@
 [![junobonnie's github stats](https://github-readme-stats.vercel.app/api?username=junobonnie&show_icons=true&theme=dracula)](https://github.com/junobonnie)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junobonnie&layout=compact&langs_count=8&theme=dracula)](https://github.com/junobonnie)
-
-
 
 ### 📚 What I use & What I know
 - Hardware <br>
