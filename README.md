@@ -110,6 +110,7 @@
 - Servers & Tools <br>
 ![AWS Badge](http://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Ncloud Badge](http://img.shields.io/badge/-Naver%20Cloud-black?style=flat-square&logo=naver)
+![Goorm Badge](http://img.shields.io/badge/-Goorm-black?style=flat-square&logo=goorm)
 ![SSH Badge](http://img.shields.io/badge/-SSH-black?style=flat-square&logo=ssh)
 ![Tmux Badge](http://img.shields.io/badge/-Tmux-black?style=flat-square&logo=tmux)
 
