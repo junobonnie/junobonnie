@@ -67,7 +67,7 @@
 - Frameworks <br>
 ![Unity Badge](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Pygame Badge](http://img.shields.io/badge/-Pygame-black?style=flat-square&logo=pygame)
-![Renpy Badge](http://img.shields.io/badge/-Ren'py-black?style=flat-square&logo=ren'py)
+![Renpy Badge](http://img.shields.io/badge/-Ren'py-black?style=flat-square&logo=ren'py&logoColor=white)
 ![Geant4 Badge](http://img.shields.io/badge/-Geant4-black?style=flat-square&logo=geant4)
 ![Gadget4 Badge](http://img.shields.io/badge/-Gadget4-black?style=flat-square&logo=gadget4)
 
