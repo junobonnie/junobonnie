@@ -32,6 +32,7 @@
 ![Kali-linux Badge](http://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kali-linux&logoColor=white)
 ![CentOS Badge](http://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos)
 ![Debian Badge](http://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian&logoColor=red)
+![HamoniKR Badge](http://img.shields.io/badge/-HamoniKR-black?style=flat-square&logo=HamoniKR)
 ![MacOS Badge](http://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
 
 - Languages <br>
