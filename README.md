@@ -127,6 +127,6 @@
 - Physics!
 
 ### ₿ Bitcoin?
-![Bitcoin Badge](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)
-![image](https://www.blockchaincenter.net/api/image/rainbow.png)
+[![Bitcoin Badge](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)]
+[![image](https://www.blockchaincenter.net/api/image/rainbow.png)]
 
