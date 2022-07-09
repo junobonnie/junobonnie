@@ -125,3 +125,6 @@
 - Morden python GUI
 - Linux!
 - Physics!
+
+### Bitcoin?
+<iframe src="https://www.blockchaincenter.net/static/rainbow-chart.html"  scrolling="no" style=" width: 100%; height: 650px;  overflow: hidden;" frameBorder="0" style="border: 0;"></iframe><br><div style="text-align:center;"><a href="https://www.blockchaincenter.net"><img style="width:100px" src="https://www.blockchaincenter.net/wp-content/uploads/Blockchaincenter.net%20Logo.png" title="Blockchaincenter.net"/></a></div>
