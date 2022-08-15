@@ -85,6 +85,7 @@
 ![Beautiful-Soup Badge](http://img.shields.io/badge/-Beautiful%20Soup%204-black?style=flat-square&logo=beautiful-soup)
 
 - Web Development <br>
+![FastApi Badge](http://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Django Badge](http://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=green)
 ![Flask Badge](http://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Bootstrap Badge](http://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
