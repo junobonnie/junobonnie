@@ -3,7 +3,7 @@
  😎 Hi, Every one!
 
 
-## ***"Cool Heads but Warm Hearts" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
+## ***"Cool Head but Warm Heart" -- Alfred Marshall<br><br>"Shut up and Calculate" -- Richard Feynman***
 
 [![Hits](https://Hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunobonnie)](https://github.com/junobonnie)
 [![Naver-mail Badge](http://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=naver&logoColor=white)](mailto:junobonnie@naver.com)
