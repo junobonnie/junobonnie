@@ -19,11 +19,29 @@
 
 ### 📚 What I use & What I know
 - Hardware <br>
-![AMD Badge](http://img.shields.io/badge/-AMD-black?style=flat-square&logo=amd)
+   > Main laptop
+   > ![Lenovo Badge](http://img.shields.io/badge/-Lenovo-black?style=flat-square&logo=lenovo&logoColor=red)
+   > ![Intel Badge](http://img.shields.io/badge/-Intel-black?style=flat-square&logo=intel)
+   > ![Nvidia Badge](http://img.shields.io/badge/-Nvidia-black?style=flat-square&logo=nvidia)
+
+   > Sub laptop
+   > ![Lenovo Badge](http://img.shields.io/badge/-Lenovo-black?style=flat-square&logo=lenovo&logoColor=red)
+   > ![AMD Badge](http://img.shields.io/badge/-AMD-black?style=flat-square&logo=amd)
+  
+   > Sub Sub laptop
+   > ![Samsung Badge](http://img.shields.io/badge/-Samsung-black?style=flat-square&logo=samsung&logoColor=blue)
+   > ![Intel Badge](http://img.shields.io/badge/-Intel-black?style=flat-square&logo=intel)
 
 - OS <br>
-![Windows Badge](http://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
-![Linux Badge](http://img.shields.io/badge/-WSL2-black?style=flat-square&logo=linux)
+   > Main laptop
+   > ![Windows Badge](http://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
+   > ![Linux Badge](http://img.shields.io/badge/-WSL2-black?style=flat-square&logo=linux)
+
+   > Sub laptop
+   > ![Windows Badge](http://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=blue)
+
+   > Sub Sub laptop
+   > ![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 - Virtual Machine <br>
 ![Vmware Badge](http://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware&logoColor=white)
@@ -32,27 +50,26 @@
 ![Kali-linux Badge](http://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kali-linux&logoColor=white)
 ![CentOS Badge](http://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos)
 ![Debian Badge](http://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian&logoColor=red)
-![HamoniKR Badge](http://img.shields.io/badge/-HamoniKR-black?style=flat-square&logo=HamoniKR)
 ![MacOS Badge](http://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
 
 - Languages <br>
-![Shell Badge](http://img.shields.io/badge/-Shell%20Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![C++ Badge](http://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue)
-![C# Badge](http://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=green)
-![Methmetica Badge](http://img.shields.io/badge/-Mathematica-black?style=flat-square&logo=mathematica)
+   > Use frequent
+   > ![Shell Badge](http://img.shields.io/badge/-Shell%20Script-black?style=flat-square&logo=gnu-bash&logoColor=white)
+   > ![Python Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+   > ![Go Badge](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go&logoColor=blue)
+
+   > Use sometimes
+   > ![Rust Badge](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)
+   > ![C++ Badge](http://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue)
+   > ![C# Badge](http://img.shields.io/badge/-C%23-black?style=flat-square&logo=c#&logoColor=green)
+   > ![Methmetica Badge](http://img.shields.io/badge/-Mathematica-black?style=flat-square&logo=mathematica)
 
 - IDEs <br>
+![Visual%20Studio%20Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=vscode&logoColor=blue)
 ![Spyder Badge](http://img.shields.io/badge/-Spyder-black?style=flat-square&logo=spyder-ide&logoColor=red)
-![Jupyter Badge](http://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-![Google-Colab Badge](http://img.shields.io/badge/-Google%20Colab-black?style=flat-square&logo=google-colab)
-![Atom Badge](http://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom&logoColor=green)
-![Dev-Cpp Badge](http://img.shields.io/badge/-Dev%20C%2b%2b-black?style=flat-square&logo=dev%20c%2B%2B)
-![Visual%20Studio%20Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual%20studio%20code&logoColor=blue)
-![Visual%20Studio Badge](http://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual%20studio&logoColor=purple)
-![Vim Badge](http://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=green)
 ![Nano Badge](http://img.shields.io/badge/-Nano-black?style=flat-square&logo=nano)
-![Emacs Badge](http://img.shields.io/badge/-Emacs-black?style=flat-square&logo=emacs)
+![Google-Colab Badge](http://img.shields.io/badge/-Google%20Colab-black?style=flat-square&logo=google-colab)
+![Jupyter Badge](http://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 - Compiler & Interpreter <br>
 ![GCC Badge](http://img.shields.io/badge/-GCC-black?style=flat-square&logo=gcc)
@@ -68,7 +85,6 @@
 - Frameworks <br>
 ![Unity Badge](http://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Pygame Badge](http://img.shields.io/badge/-Pygame-black?style=flat-square&logo=pygame)
-![Renpy Badge](http://img.shields.io/badge/-Ren'py-black?style=flat-square&logo=ren'py&logoColor=white)
 ![Geant4 Badge](http://img.shields.io/badge/-Geant4-black?style=flat-square&logo=geant4)
 ![Gadget4 Badge](http://img.shields.io/badge/-Gadget4-black?style=flat-square&logo=gadget4)
 
@@ -85,38 +101,26 @@
 ![Beautiful-Soup Badge](http://img.shields.io/badge/-Beautiful%20Soup%204-black?style=flat-square&logo=beautiful-soup)
 
 - Web Development <br>
-![FastApi Badge](http://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Django Badge](http://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=green)
-![Flask Badge](http://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Bootstrap Badge](http://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 - GUIs <br>
 ![Pyqt5 Badge](http://img.shields.io/badge/-Pyqt5-black?style=flat-square&logo=qt)
 ![Tkinter Badge](http://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=tkinter)
-![Kivy Badge](http://img.shields.io/badge/-Kivy-black?style=flat-square&logo=kivy)
-
-- Other Libraries <br>
-![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
-![Pandas Badge](http://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Numpy Badge](http://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=blue)
-![Numba Badge](http://img.shields.io/badge/-Numba-black?style=flat-square&logo=numba)
+![Fyne Badge](http://img.shields.io/badge/-Fyne-black?style=flat-square&logo=fyne)
 
 - Git & Package Managers <br>
 ![Git Badge](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Anaconda Badge](http://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda)
 ![Pip Badge](http://img.shields.io/badge/-Pip-black?style=flat-square&logo=pip)
+![Cargo Badge](http://img.shields.io/badge/-Cargo-black?style=flat-square&logo=cargo)
 ![Apt Badge](http://img.shields.io/badge/-Apt-black?style=flat-square&logo=apt)
-![Yum Badge](http://img.shields.io/badge/-Yum-black?style=flat-square&logo=yum)
 ![Npm Badge](http://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm)
 
-- Servers & Tools <br>
-![AWS Badge](http://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Ncloud Badge](http://img.shields.io/badge/-Naver%20Cloud-black?style=flat-square&logo=naver)
-![Heroku Badge](http://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=violet)
+- Servers <br>
 ![Goorm Badge](http://img.shields.io/badge/-Goorm-black?style=flat-square&logo=goorm)
 ![SSH Badge](http://img.shields.io/badge/-SSH-black?style=flat-square&logo=ssh)
-![Tmux Badge](http://img.shields.io/badge/-Tmux-black?style=flat-square&logo=tmux)
 
 ### 🌱 I’m currently learning
 - Python and Mathematica
