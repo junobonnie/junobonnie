@@ -17,6 +17,8 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junobonnie&layout=compact&langs_count=8&theme=dracula)](https://github.com/junobonnie)
 
+<img src="https://github.com/user-attachments/assets/0374be4e-74e9-4d66-8af6-b5e7eb41873f" width="60%" height="60%">
+
 ### 📚 What I use & What I know
 - Hardware <br>
    > Main laptop
